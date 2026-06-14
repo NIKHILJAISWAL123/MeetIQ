@@ -1,5 +1,4 @@
-# 🤖 MeetIQ - IBM BOB Hackathon
-**Team Semicolon**
+# 🤖 MeetIQ 
 
 A comprehensive AI-powered transcription and meeting analysis platform built with modern web technologies. This dashboard transforms audio recordings into actionable insights with real-time AI processing, user authentication, and intelligent conversation capabilities.
 
